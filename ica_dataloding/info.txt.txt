@@ -1,0 +1,15 @@
+Before Running the code below directory must be creared
+
+cd $HOME
+mkdir ica
+download all the files and place in the home directory and upload it to below HDFS directory
+hadoop fs -mkdir /ica/
+hadoop fs -mkidr /ica/properties/
+hadoop fs -put ica.properties /ica/properties/
+hadoop fs -mkdir /ica/temprature_data
+hadoop fs -put stockholm_daily_temp_obs_* /ica/temprature_data
+hadoop fs -mkidr /ica/pressure_data
+hadoop fs -put stockholm_barometer_* /ica/temprature_data
+
+Place the properties file to HDFS befor running the code.
+create jar and place the jar on the JAR directory.

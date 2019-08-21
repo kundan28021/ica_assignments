@@ -1,0 +1,8 @@
+stockholm_barometer_1756_1858.txt|year:Int,month:Int,day:Int,bmp_morn:Double,bmt_morn:Double,bmp_noon:Double,bmt_noon:Double,bmp_evn:Double,bmt_evn:Double
+stockholm_barometer_1859_1861.txt|year:Int,month:Int,day:Int,bmp_morn:Double,bmt_morn:Double,bma_morn:Double,bmp_noon:Double,bmt_noon:Double,bma_noon:Double,bmp_evn:Double,bmt_evn:Double,bma_evn:Double
+stockholm_barometer_1862_1937.txt|year:Int,month:Int,day:Int,bma_morn:Double,bma_noon:Double,bma_evn:Double
+stockholm_barometer_1938_1960.txt|year:Int,month:Int,day:Int,bma_morn:Double,bma_noon:Double,bma_evn:Double
+stockholm_barometer_1961_2012.txt|year:Int,month:Int,day:Int,bma_morn:Double,bma_noon:Double,bma_evn:Double
+stockholm_barometer_2013_2017.txt|year:Int,month:Int,day:Int,bma_morn:Double,bma_noon:Double,bma_evn:Double
+stockholmA_barometer_2013_2017.txt|year:Int,month:Int,day:Int,bma_morn:Double,bma_noon:Double,bma_evn:Double
+

@@ -1,0 +1,13 @@
+ICA_BASE_DIR=/home/user/ica
+ICA_JAR_DIR=$BASE_DIR/jars
+ICA_PROP_DIR=$BASE_DIR/properties
+
+spark-submit   \
+--class com.ica.Master         \
+--master yarn                  \
+--deploy-mode cluster          \
+--num-executors 12             \
+--executor-cores 4             \
+--executor-memory 2g           \
+--driver-memory 2g             \
+$ICA_JAR_DIR/ica_dataload.jar  \

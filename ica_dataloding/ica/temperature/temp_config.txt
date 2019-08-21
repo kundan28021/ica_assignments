@@ -1,0 +1,5 @@
+stockholm_daily_temp_obs_1756_1858_t1t2t3.txt|year:Int,month:Int,day:Int,t_morn:Double,t_noon:Double,t_evn:Double 
+stockholm_daily_temp_obs_1859_1960_t1t2t3txtn.txt|year:Int,month:Int,day:Int,t_morn:Double,t_noon:Double,t_evn:Double,t_max:Double,t_min:Double
+stockholm_daily_temp_obs_1961_2012_t1t2t3txtntm.txt|year:Int,month:Int,day:Int,t_morn:Double,t_noon:Double,t_evn:Double,t_max:Double,t_min:Double,t_estm_mean:Double
+stockholm_daily_temp_obs_2013_2017_t1t2t3txtntm.txt|year:Int,month:Int,day:Int,t_morn:Double,t_noon:Double,t_evn:Double,t_max:Double,t_min:Double,t_estm_mean:Double
+stockholmA_daily_temp_obs_2013_2017_t1t2t3txtntm.txt|year:Int,month:Int,day:Int,t_morn:Double,t_noon:Double,t_evn:Double,t_max:Double,t_min:Double,t_estm_mean:Double
